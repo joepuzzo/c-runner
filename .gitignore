@@ -1,0 +1,4 @@
+*.so
+*.dylib
+node_modules
+.vscode
